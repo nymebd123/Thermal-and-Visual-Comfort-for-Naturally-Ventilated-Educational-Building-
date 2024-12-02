@@ -1,0 +1,1088 @@
+﻿Gender,Age,Study_Level,Floor_Level,Room_Orientation,No_Lights,No_Fans,No_Windows,No_Doors,Floor_Area,Distan_Windows,Temperature_(°C) ,Humidity_(%),CO2_(PPM),PMV_Level,Lighting_Level
+Female,18-25,3,607,N-W,25,14,4,2,320,2,31,72,446,Neutral,Good
+Male,18-25,2,607,N-W,25,14,4,2,320,2,31,72,446,Neutral,Good
+Male,18-25,3,607,N-W,25,14,4,2,320,2,31,72,446,Warm,Very Good
+Male,18-25,3,607,N-W,25,14,4,2,320,2,31,72,446,Warm,Very Good
+Male,18-25,3,607,N-W,25,14,4,2,320,2,31,72,446,Slightly Cool,Very Good
+Male,18-25,3,607,N-W,25,14,4,2,320,2,31,72,446,Warm,Good
+Male,26-30,3,607,N-W,25,14,4,2,320,6,31,72,446,Warm,Fair
+Male,26-30,3,607,N-W,25,14,4,2,320,6,31,72,446,Hot,Fair
+Female,18-25,3,607,N-W,25,14,4,2,320,3,31,72,446,Cold,Fair
+Female,18-25,3,607,N-W,25,14,4,2,320,3,31,72,446,Slightly Cool,Fair
+Female,26-30,3,607,N-W,25,14,4,2,320,3,31,72,446,Warm,Good
+Male,26-30,3,607,N-W,25,14,4,2,320,3,31,72,446,Slightly Warm,Fair
+Male,18-25,3,607,N-W,25,14,4,2,320,3,31,72,446,Warm,Fair
+Female,18-25,3,607,N-W,25,14,4,2,320,5,31,72,446,Hot,Fair
+Male,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Warm,Fair
+Male,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Slightly Warm,Good
+Male,26-30,3,607,N-W,25,14,4,2,320,3,31,72,446,Slightly Cool,Fair
+Male,18-25,3,607,N-W,25,14,4,2,320,3,31,72,446,Warm,Excellent
+Female,18-25,3,607,N-W,25,14,4,2,320,3,31,72,446,Neutral,Good
+Male,18-25,3,607,N-W,25,14,4,2,320,3,31,72,446,Warm,Good
+Male,18-25,3,607,N-W,25,14,4,2,320,5,31,72,446,Hot,Fair
+Female,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Warm,Fair
+Male,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Warm,Adequate
+Female,18-25,3,607,N-W,25,14,4,2,320,5,31,72,446,Hot,Fair
+Male,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Warm,Fair
+Male,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Hot,Fair
+Male,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Hot,Poor
+Male,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Hot,Adequate
+Male,26-30,3,607,N-W,25,14,4,2,320,6,31,72,446,Warm,Good
+Female,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Slightly Cool,Poor
+Female,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Warm,Fair
+Female,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Slightly Warm,Fair
+Male,26-30,3,607,N-W,25,14,4,2,320,6,31,72,446,Slightly Cool,Fair
+Male,26-30,3,607,N-W,25,14,4,2,320,6,31,72,446,Slightly Warm,Adequate
+Male,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Slightly Warm,Adequate
+Male,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Warm,Adequate
+Female,26-30,3,607,N-W,25,14,4,2,320,6,31,72,446,Hot,Adequate
+Female,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Hot,Adequate
+Male,26-30,3,607,N-W,25,14,4,2,320,6,31,72,446,Hot,Adequate
+Female,18-25,3,607,N-W,25,14,4,2,320,6,31,72,446,Warm,Adequate
+Female,26-30,3,607,N-W,25,14,4,2,320,6,31,72,446,Slightly Warm,Good
+Female,18-25,3,607,N-W,25,14,4,2,320,5,31,72,446,Warm,Adequate
+Female,18-25,3,607,N-W,25,14,4,2,320,5,31,72,446,Warm,Fair
+Female,18-25,3,607,N-W,25,14,4,2,320,5,31,72,446,Neutral,Good
+Male,18-25,3,607,N-W,25,14,4,2,320,5,31,72,446,Slightly Warm,Good
+Male,18-25,3,607,N-W,25,14,4,2,320,5,31,72,446,Slightly Warm,Excellent
+Female,18-25,3,607,N-W,25,14,4,2,320,5,31,72,446,Neutral,Good
+Female,18-25,4,621,S-E,25,9,3,2,320,5,31,72,451,Warm,Good
+Female,26-30,4,621,S-E,25,9,3,2,320,5,31,72,451,Neutral,Good
+Female,26-30,4,621,S-E,25,9,3,2,320,5,31,72,451,Cool,Poor
+Female,18-25,4,621,S-E,25,9,3,2,320,5,31,72,451,Neutral,Fair
+Male,18-25,4,621,S-E,25,9,3,2,320,5,31,72,451,Warm,Good
+Male,26-30,4,621,S-E,25,9,3,2,320,6,31,72,451,Hot,Fair
+Female,18-25,4,621,S-E,25,9,3,2,320,6,31,72,451,Warm,Good
+Female,26-30,4,621,S-E,25,9,3,2,320,3,31,72,451,Slightly Warm,Good
+Female,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Warm,Good
+Female,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Warm,Fair
+Female,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Neutral,Good
+Male,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Slightly Warm,Good
+Male,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Slightly Warm,Excellent
+Female,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Neutral,Good
+Female,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Warm,Good
+Female,26-30,4,621,S-E,25,9,3,2,320,5,31,72,451,Neutral,Good
+Female,26-30,4,621,S-E,25,9,3,2,320,5,31,72,451,Cool,Good
+Female,18-25,4,621,S-E,25,9,3,2,320,5,31,72,451,Neutral,Fair
+Male,18-25,4,621,S-E,25,9,3,2,320,5,31,72,451,Warm,Good
+Male,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Slightly Warm,Good
+Male,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Slightly Warm,Good
+Female,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Neutral,Very Good
+Female,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Warm,Fair
+Female,26-30,4,621,S-E,25,9,3,2,320,5,31,72,451,Neutral,Good
+Female,26-30,4,621,S-E,25,9,3,2,320,5,31,72,451,Cool,Good
+Female,18-25,4,621,S-E,25,9,3,2,320,5,31,72,451,Neutral,Good
+Female,18-25,4,621,S-E,25,9,3,2,320,2,31,72,451,Cool,Good
+Male,18-25,4,621,S-E,25,9,3,2,320,2,31,72,451,Slightly Warm,Good
+Male,18-25,4,621,S-E,25,9,3,2,320,2,31,72,451,Slightly Warm,Fair
+Female,18-25,4,621,S-E,25,9,3,2,320,2,31,72,451,Neutral,Good
+Female,18-25,4,621,S-E,25,9,3,2,320,2,31,72,451,Warm,Good
+Female,26-30,4,621,S-E,25,9,3,2,320,2,31,72,451,Neutral,Good
+Female,26-30,4,621,S-E,25,9,3,2,320,3,31,72,451,Cool,Excellent
+Female,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Neutral,Fair
+Female,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Cool,Good
+Male,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Slightly Warm,Good
+Male,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Slightly Warm,Excellent
+Female,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Neutral,Good
+Female,18-25,4,621,S-E,25,9,3,2,320,3,31,72,451,Warm,Good
+Female,26-30,4,621,S-E,25,9,3,2,320,3,31,72,451,Neutral,Good
+Female,26-30,4,621,S-E,25,9,3,2,320,3,31,72,451,Cool,Very Good
+Female,18-25,4,621,S-E,25,9,3,2,320,6,31,72,451,Neutral,Good
+Female,18-25,4,621,S-E,25,9,3,2,320,6,31,72,451,Cool,Good
+Female,18-25,4,604,N-W,13,10,3,2,270,6,31,54,451,Hot,Fair
+Male,18-25,4,604,N-W,13,10,3,2,270,6,31,54,451,Warm,Excellent
+Male,26-30,3,604,N-W,13,10,5,2,270,2,33,54,454,Neutral,Fair
+Male,26-30,3,604,N-W,13,10,5,2,270,2,33,54,454,Warm,Good
+Male,18-25,3,604,N-W,13,10,5,2,270,5,33,54,454,Hot,Poor
+Male,18-25,3,604,N-W,13,10,5,2,270,6,33,54,454,Hot,Poor
+Male,18-25,3,604,N-W,13,10,5,2,270,6,33,54,454,Hot,Poor
+Male,18-25,3,604,N-W,13,10,5,2,270,3,33,54,454,Warm,Fair
+Female,18-25,3,604,N-W,13,10,5,2,270,3,33,54,454,Warm,Good
+Male,18-25,3,604,N-W,13,10,5,2,270,3,33,54,454,Warm,Excellent
+Male,26-30,4,604,N-W,13,10,5,2,270,5,33,54,454,Hot,Fair
+Male,26-30,4,604,N-W,13,10,5,2,270,5,33,54,454,Hot,Good
+Female,18-25,4,604,N-W,13,10,5,2,270,3,33,54,454,Slightly Cool,Good
+Female,18-25,4,604,N-W,13,10,5,2,270,3,33,54,454,Slightly Warm,Good
+Male,18-25,4,604,N-W,13,10,5,2,270,3,33,54,454,Slightly Warm,Good
+Female,18-25,4,604,N-W,13,10,5,2,270,6,33,54,454,Hot,Fair
+Male,18-25,4,604,N-W,13,10,5,2,270,6,33,54,454,Hot,Fair
+Female,18-25,4,604,N-W,13,10,5,2,270,6,33,54,454,Hot,Poor
+Male,26-30,4,604,N-W,13,10,5,2,270,2,33,54,454,Neutral,Excellent
+Female,26-30,4,604,N-W,13,10,5,2,270,2,33,54,454,Warm,Fair
+Female,18-25,4,604,N-W,13,10,5,2,270,5,33,54,454,Hot,Fair
+Female,18-25,4,604,N-W,13,10,5,2,270,2,33,54,454,Neutral,Fair
+Male,18-25,4,604,N-W,13,10,5,2,270,2,33,54,454,Slightly Warm,Excellent
+Male,18-25,4,604,N-W,13,10,5,2,270,5,33,54,454,Hot,Fair
+Male,26-30,4,604,N-W,13,10,5,2,270,3,33,54,454,Warm,Good
+Male,26-30,4,604,N-W,13,10,5,2,270,3,33,54,454,Warm,Good
+Female,18-25,4,604,N-W,13,10,5,2,270,3,33,54,454,Slightly Cool,Good
+Male,18-25,4,604,N-W,13,10,5,2,270,3,33,54,454,Warm,Fair
+Male,18-25,4,604,N-W,13,10,5,2,270,3,33,54,454,Warm,Good
+Male,18-25,4,604,N-W,13,10,5,2,270,3,33,54,454,Slightly Warm,Good
+Male,18-25,4,604,N-W,13,10,5,2,270,3,33,54,454,Slightly Warm,Excellent
+Male,18-25,4,604,N-W,13,10,5,2,270,6,33,54,454,Warm,Good
+Male,26-30,4,604,N-W,13,10,5,2,270,6,33,54,454,Warm,Good
+Female,26-30,2,601,S-E,23,10,5,2,320,2,33,54,454,Slightly Warm,Very Good
+Male,26-30,2,601,S-E,23,10,5,2,320,5,33,54,454,Warm,Fair
+Male,18-25,2,601,S-E,23,10,5,2,320,2,33,54,454,Slightly Warm,Good
+Male,18-25,2,601,S-E,23,10,5,2,320,3,33,54,454,Warm,Good
+Male,18-25,2,601,S-E,23,10,5,2,320,3,33,54,454,Neutral,Excellent
+Male,18-25,2,601,S-E,23,10,5,2,320,6,33,54,454,Hot,Fair
+Male,26-30,2,601,S-E,23,10,5,2,320,6,33,54,454,Hot,Adequate
+Male,26-30,2,601,S-E,23,10,5,2,320,3,33,54,454,Slightly Warm,Good
+Male,18-25,2,601,S-E,23,10,5,2,320,3,33,54,454,Slightly Warm,Excellent
+Female,18-25,2,601,S-E,23,10,5,2,320,3,33,54,454,Slightly Warm,Good
+Male,18-25,2,601,S-E,23,10,5,2,320,3,33,54,454,Hot,Adequate
+Male,18-25,2,601,S-E,23,10,5,2,320,6,33,54,454,Neutral,Good
+Male,18-25,2,601,S-E,23,10,5,2,320,6,33,54,454,Hot,Fair
+Male,18-25,2,601,S-E,23,10,5,2,320,6,33,54,454,Hot,Fair
+Male,26-30,2,601,S-E,23,10,5,2,320,2,33,54,454,Slightly Warm,Good
+Male,26-30,2,601,S-E,23,10,5,2,320,6,33,54,454,Hot,Good
+Female,26-30,2,601,S-E,23,10,5,2,320,2,33,54,454,Slightly Warm,Good
+Male,18-25,2,601,S-E,23,10,5,2,320,5,33,54,454,Hot,Fair
+Male,18-25,2,601,S-E,23,10,5,2,320,6,33,54,454,Hot,Fair
+Female,18-25,2,601,S-E,23,10,5,2,320,3,33,54,454,Slightly Warm,Good
+Male,18-25,2,601,S-E,23,10,5,2,320,6,33,54,454,Hot,Fair
+Female,26-30,2,601,S-E,23,10,5,2,320,3,33,54,454,Slightly Warm,Very Good
+Female,26-30,2,601,S-E,23,10,5,2,320,3,33,54,454,Slightly Warm,Good
+Male,18-25,2,601,S-E,23,10,5,2,320,5,33,54,454,Hot,Fair
+Male,18-25,2,601,S-E,23,10,5,2,320,3,33,54,454,Slightly Warm,Fair
+Male,18-25,2,601,S-E,23,10,5,2,320,2,33,54,454,Warm,Good
+Male,18-25,2,601,S-E,23,10,5,2,320,2,33,54,454,Neutral,Good
+Male,18-25,2,601,S-E,23,10,5,2,320,5,33,54,454,Hot,Fair
+Male,18-25,2,601,S-E,23,10,5,2,320,5,33,54,454,Hot,Adequate
+Male,26-30,2,601,S-E,23,10,5,2,320,3,33,54,454,Slightly Warm,Good
+Male,18-25,2,601,S-E,23,10,5,2,320,3,33,54,454,Slightly Warm,Good
+Female,18-25,2,601,S-E,23,10,5,2,320,3,33,54,454,Slightly Warm,Very Good
+Male,18-25,2,601,S-E,23,10,5,2,320,4,33,54,454,Hot,Fair
+Male,18-25,2,601,S-E,23,10,5,2,320,3,33,54,454,Neutral,Fair
+Male,18-25,3,601,S-E,23,10,5,2,320,5,33,54,454,Hot,Fair
+Male,18-25,3,601,S-E,23,10,5,2,320,5,33,54,454,Hot,Fair
+Male,18-25,2,601,S-E,23,10,5,2,320,6,33,54,454,Slightly Warm,Excellent
+Male,18-25,3,601,S-E,23,10,5,2,320,6,33,54,454,Hot,Fair
+Female,18-25,3,601,S-E,23,10,5,2,320,6,33,54,454,Slightly Warm,Good
+Male,18-25,3,601,S-E,23,10,5,2,320,5,33,54,454,Hot,Good
+Male,18-25,2,601,S-E,23,10,5,2,320,5,33,54,454,Hot,Fair
+Female,18-25,2,601,S-E,23,10,5,2,320,2,33,54,454,Slightly Warm,Fair
+Male,18-25,2,601,S-E,23,10,5,2,320,5,33,54,454,Hot,Fair
+Female,18-25,3,601,S-E,23,10,5,2,320,4,33,54,454,Slightly Warm,Good
+Female,18-25,2,601,S-E,23,10,5,2,320,3,33,54,454,Slightly Warm,Good
+Male,18-25,3,601,S-E,23,10,5,2,320,3,33,54,454,Hot,Good
+Male,18-25,3,601,S-E,23,10,5,2,320,3,33,54,454,Slightly Warm,Excellent
+Male,18-25,3,601,S-E,23,10,5,2,320,3,33,54,454,Warm,Fair
+Male,18-25,3,601,S-E,23,10,5,2,320,3,33,54,454,Neutral,Good
+Male,18-25,3,601,S-E,23,10,5,2,320,5,33,54,454,Hot,Good
+Male,18-25,3,601,S-E,23,10,5,2,320,5,33,54,454,Hot,Fair
+Male,18-25,3,601,S-E,23,10,5,2,320,6,33,54,454,Slightly Warm,Excellent
+Male,26-30,3,612,N-W,16,14,3,2,270,6,30,64,444,Hot,Adequate
+Male,18-25,3,612,N-W,16,14,3,2,270,6,30,64,444,Slightly Warm,Good
+Male,18-25,2,612,N-W,16,14,3,2,270,2,30,64,444,Slightly Warm,Good
+Female,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Slightly Warm,Excellent
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Hot,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Warm,Good
+Male,18-25,2,612,N-W,16,14,3,2,270,3,30,64,444,Neutral,Good
+Male,18-25,2,612,N-W,16,14,3,2,270,3,30,64,444,Warm,Excellent
+Male,18-25,2,612,N-W,16,14,3,2,270,3,30,64,444,Neutral,Excellent
+Male,18-25,3,612,N-W,16,14,3,2,270,6,30,64,444,Hot,Fair
+Female,18-25,2,612,N-W,16,14,3,2,270,4,30,64,444,Slightly Cool,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,6,30,64,444,Neutral,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,5,30,64,444,Hot,Fair
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Slightly Warm,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Warm,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Neutral,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Neutral,Excellent
+Male,18-25,3,612,N-W,16,14,3,2,270,3,30,64,444,Neutral,Fair
+Male,18-25,3,612,N-W,16,14,3,2,270,6,30,64,444,Warm,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,6,30,64,444,Hot,Fair
+Male,18-25,2,612,N-W,16,14,3,2,270,6,30,64,444,Hot,Fair
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Neutral,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Neutral,Excellent
+Male,26-30,3,612,N-W,16,14,3,2,270,5,30,64,444,Hot,Good
+Male,18-25,2,612,N-W,16,14,3,2,270,5,30,64,444,Hot,Fair
+Male,18-25,2,612,N-W,16,14,3,2,270,5,30,64,444,Hot,Good
+Male,18-25,2,612,N-W,16,14,3,2,270,3,30,64,444,Warm,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,6,30,64,444,Warm,Excellent
+Male,18-25,2,612,N-W,16,14,3,2,270,2,30,64,444,Neutral,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Neutral,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Warm,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Slightly Warm,Excellent
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Neutral,Excellent
+Male,18-25,3,612,N-W,16,14,3,2,270,3,30,64,444,Slightly Warm,Fair
+Male,18-25,3,612,N-W,16,14,3,2,270,6,30,64,444,Hot,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,5,30,64,444,Hot,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Warm,Excellent
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Warm,Good
+Male,18-25,2,612,N-W,16,14,3,2,270,2,30,64,444,Neutral,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,2,30,64,444,Neutral,Good
+Male,18-25,3,612,N-W,16,14,3,2,270,3,30,64,444,Warm,Excellent
+Male,18-25,2,608,N-W,21,14,3,2,310,4,27,63,443,Slightly Warm,Good
+Male,18-25,2,608,N-W,21,14,3,2,310,4,27,63,443,Neutral,Excellent
+Male,18-25,2,608,N-W,21,14,3,2,310,4,27,63,443,Neutral,Excellent
+Male,18-25,2,608,N-W,21,14,3,2,310,4,27,63,443,Neutral,Fair
+Female,18-25,2,608,N-W,21,14,3,2,310,4,27,63,443,Cold,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,4,27,63,443,Neutral,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,6,27,63,443,Cold,Poor
+Male,18-25,2,608,N-W,21,14,3,2,310,4,27,63,443,Neutral,Good
+Male,18-25,3,608,N-W,21,14,3,2,310,4,27,63,443,Slightly Warm,Good
+Female,18-25,3,608,N-W,21,14,3,2,310,6,27,63,443,Slightly Cool,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,6,27,63,443,Slightly Cool,Adequate
+Male,18-25,3,608,N-W,21,14,3,2,310,5,27,63,443,Hot,Fair
+Male,18-25,3,608,N-W,21,14,3,2,310,5,27,63,443,Neutral,Fair
+Male,18-25,3,608,N-W,21,14,3,2,310,5,27,63,443,Hot,Fair
+Male,18-25,2,608,N-W,21,14,3,2,310,5,27,63,443,Neutral,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,5,27,63,443,Slightly Warm,Adequate
+Female,18-25,2,608,N-W,21,14,3,2,310,5,27,63,443,Slightly Cool,Good
+Male,18-25,3,608,N-W,21,14,3,2,310,5,27,63,443,Warm,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,5,27,63,443,Slightly Warm,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,3,27,63,443,Slightly Warm,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,3,27,63,443,Slightly Warm,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,3,27,63,443,Warm,Fair
+Male,18-25,2,608,N-W,21,14,3,2,310,3,27,63,443,Slightly Warm,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,5,27,63,443,Slightly Cool,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,3,27,63,443,Slightly Cool,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,6,27,63,443,Hot,Fair
+Female,18-25,2,608,N-W,21,14,3,2,310,3,27,63,443,Neutral,Good
+Female,18-25,3,608,N-W,21,14,3,2,310,5,27,63,443,Hot,Fair
+Female,18-25,3,608,N-W,21,14,3,2,310,3,27,63,443,Neutral,Good
+Male,18-25,2,608,N-W,21,14,3,2,310,6,27,63,443,Slightly Warm,Excellent
+Female,18-25,3,608,N-W,21,14,3,2,310,6,27,63,443,Slightly Cool,Good
+Female,18-25,3,608,N-W,21,14,3,2,310,6,27,63,443,Warm,Good
+Female,18-25,3,608,N-W,21,14,3,2,310,6,27,63,443,Slightly Warm,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,6,27,63,443,Slightly Warm,Adequate
+Male,18-25,2,608,N-W,21,14,3,2,310,6,27,63,443,Slightly Warm,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,6,27,63,443,Slightly Cool,Good
+Female,18-25,3,608,N-W,21,14,3,2,310,6,27,63,443,Slightly Cool,Good
+Female,18-25,2,608,N-W,21,14,3,2,310,6,27,63,443,Hot,Fair
+Female,18-25,2,608,N-W,21,14,3,2,310,6,27,63,443,Neutral,Adequate
+Female,18-25,2,608,N-W,21,14,3,2,310,6,27,63,443,Neutral,Fair
+Male,18-25,2,620,S-W,24,15,3,2,310,5,30,63,447,Hot,Good
+Male,18-25,2,620,S-W,24,15,3,2,310,5,30,63,447,Hot,Fair
+Female,18-25,2,620,S-W,24,15,3,2,310,5,30,63,447,Neutral,Poor
+Male,18-25,2,620,S-W,24,15,3,2,310,5,30,63,447,Neutral,Fair
+Female,18-25,2,620,S-W,24,15,3,2,310,5,30,63,447,Hot,Fair
+Male,18-25,2,620,S-W,24,15,3,2,310,5,30,63,447,Hot,Good
+Male,18-25,2,620,S-W,24,15,3,2,310,5,30,63,447,Hot,Fair
+Male,18-25,2,620,S-W,24,15,3,2,310,5,30,63,447,Warm,Good
+Female,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Warm,Good
+Male,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Neutral,Good
+Male,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Neutral,Excellent
+Male,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Warm,Excellent
+Male,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Slightly Warm,Fair
+Female,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Neutral,Good
+Female,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Slightly Warm,Good
+Female,18-25,2,620,S-W,24,15,3,2,310,5,30,63,447,Hot,Good
+Female,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Warm,Good
+Female,18-25,2,620,S-W,24,15,3,2,310,6,30,63,447,Warm,Good
+Male,18-25,2,620,S-W,24,15,3,2,310,6,30,63,447,Hot,Good
+Male,18-25,2,620,S-W,24,15,3,2,310,6,30,63,447,Hot,Good
+Male,18-25,2,620,S-W,24,15,3,2,310,4,30,63,447,Neutral,Fair
+Male,18-25,3,620,S-W,24,15,3,2,310,4,30,63,447,Neutral,Fair
+Male,18-25,3,620,S-W,24,15,3,2,310,6,30,63,447,Hot,Good
+Female,18-25,3,620,S-W,24,15,3,2,310,5,30,63,447,Hot,Fair
+Female,18-25,3,620,S-W,24,15,3,2,310,5,30,63,447,Hot,Good
+Male,18-25,3,620,S-W,24,15,3,2,310,2,30,63,447,Warm,Good
+Female,18-25,3,620,S-W,24,15,3,2,310,2,30,63,447,Warm,Excellent
+Female,18-25,3,620,S-W,24,15,3,2,310,2,30,63,447,Neutral,Fair
+Male,18-25,3,620,S-W,24,15,3,2,310,2,30,63,447,Neutral,Good
+Male,18-25,3,620,S-W,24,15,3,2,310,2,30,63,447,Warm,Good
+Male,18-25,3,620,S-W,24,15,3,2,310,2,30,63,447,Slightly Warm,Excellent
+Male,18-25,3,620,S-W,24,15,3,2,310,2,30,63,447,Neutral,Good
+Female,18-25,3,620,S-W,24,15,3,2,310,2,30,63,447,Slightly Warm,Good
+Male,18-25,2,620,S-W,24,15,3,2,310,5,30,63,447,Hot,Good
+Male,18-25,2,620,S-W,24,15,3,2,310,5,30,63,447,Hot,Fair
+Female,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Warm,Very Good
+Female,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Warm,Fair
+Male,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Slightly Warm,Good
+Male,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Neutral,Good
+Female,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Slightly Warm,Good
+Female,18-25,2,620,S-W,24,15,3,2,310,5,30,63,447,Hot,Fair
+Female,18-25,2,620,S-W,24,15,3,2,310,6,30,63,447,Hot,Fair
+Female,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Warm,Good
+Male,18-25,2,620,S-W,24,15,3,2,310,3,30,63,447,Warm,Good
+Female,18-25,3,603,S-E,24,12,3,2,280,2,30,64,448,Cool,Excellent
+Male,18-25,3,603,S-E,24,12,3,2,280,2,30,64,448,Warm,Good
+Female,18-25,3,603,S-E,24,12,3,2,280,2,30,64,448,Warm,Excellent
+Female,18-25,3,603,S-E,24,12,3,2,280,2,30,64,448,Warm,Fair
+Male,18-25,3,603,S-E,24,12,3,2,280,2,30,64,448,Warm,Good
+Female,18-25,3,603,S-E,24,12,3,2,280,2,30,64,448,Neutral,Good
+Male,18-25,2,603,S-E,24,12,3,2,280,2,30,64,448,Warm,Excellent
+Female,18-25,2,603,S-E,24,12,3,2,280,2,30,64,448,Slightly Warm,Good
+Female,18-25,2,603,S-E,24,12,3,2,280,2,30,64,448,Neutral,Good
+Male,18-25,2,603,S-E,24,12,3,2,280,6,30,64,448,Hot,Good
+Female,18-25,2,603,S-E,24,12,3,2,280,2,30,64,448,Cool,Fair
+Male,18-25,2,603,S-E,24,12,3,2,280,3,30,64,448,Warm,Excellent
+Male,18-25,2,603,S-E,24,12,3,2,280,3,30,64,448,Warm,Fair
+Male,18-25,3,603,S-E,24,12,3,2,280,3,30,64,448,Slightly Warm,Good
+Female,18-25,3,603,S-E,24,12,3,2,280,3,30,64,448,Slightly Cool,Good
+Male,18-25,3,603,S-E,24,12,3,2,280,3,30,64,448,Neutral,Excellent
+Female,18-25,3,603,S-E,24,12,3,2,280,3,30,64,448,Slightly Cool,Very Good
+Male,18-25,3,603,S-E,24,12,3,2,280,3,30,64,448,Slightly Warm,Fair
+Female,18-25,3,603,S-E,24,12,3,2,280,2,30,64,448,Warm,Good
+Male,18-25,2,603,S-E,24,12,3,2,280,4,30,64,448,Slightly Warm,Good
+Female,18-25,2,603,S-E,24,12,3,2,280,4,30,64,448,Slightly Cool,Good
+Male,18-25,2,603,S-E,24,12,3,2,280,4,30,64,448,Slightly Warm,Good
+Female,18-25,2,603,S-E,24,12,3,2,280,4,30,64,448,Neutral,Excellent
+Female,18-25,2,603,S-E,24,12,3,2,280,4,30,64,448,Neutral,Fair
+Male,18-25,2,603,S-E,24,12,3,2,280,4,30,64,448,Slightly Warm,Good
+Female,18-25,2,603,S-E,24,12,3,2,280,4,30,64,448,Slightly Cool,Good
+Female,18-25,3,603,S-E,24,12,3,2,280,4,30,64,448,Neutral,Excellent
+Male,18-25,3,603,S-E,24,12,3,2,280,4,30,64,448,Warm,Good
+Female,18-25,3,603,S-E,24,12,3,2,280,3,30,64,448,Slightly Warm,Good
+Male,18-25,3,603,S-E,24,12,3,2,280,3,30,64,448,Warm,Good
+Female,18-25,3,603,S-E,24,12,3,2,280,3,30,64,448,Neutral,Very Good
+Female,18-25,3,603,S-E,24,12,3,2,280,3,30,64,448,Cool,Fair
+Male,18-25,2,603,S-E,24,12,3,2,280,6,30,64,448,Hot,Fair
+Male,18-25,2,603,S-E,24,12,3,2,280,6,30,64,448,Warm,Good
+Female,18-25,2,603,S-E,24,12,3,2,280,2,30,64,448,Cool,Good
+Male,18-25,2,603,S-E,24,12,3,2,280,6,30,64,448,Hot,Fair
+Female,18-25,2,603,S-E,24,12,3,2,280,6,30,64,448,Slightly Cool,Poor
+Male,18-25,2,603,S-E,24,12,3,2,280,6,30,64,448,Warm,Fair
+Male,18-25,2,603,S-E,24,12,3,2,280,2,30,64,448,Slightly Warm,Good
+Female,18-25,3,603,S-E,24,12,3,2,280,2,30,64,448,Slightly Cool,Good
+Female,18-25,3,707,N-W,15,13,3,1,270,2,29,56,442,Slightly Cool,Very Good
+Male,18-25,2,707,N-W,15,13,3,1,270,3,29,56,442,Slightly Warm,Excellent
+Male,18-25,2,707,N-W,15,13,3,1,270,3,29,56,442,Slightly Cool,Fair
+Female,18-25,2,707,N-W,15,13,3,1,270,3,29,56,442,Neutral,Good
+Male,18-25,2,707,N-W,15,13,3,1,270,3,29,56,442,Slightly Warm,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,6,29,56,442,Slightly Cool,Poor
+Female,18-25,2,707,N-W,15,13,3,1,270,6,29,56,442,Warm,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,2,29,56,442,Cold,Excellent
+Male,18-25,3,707,N-W,15,13,3,1,270,6,29,56,442,Warm,Fair
+Female,18-25,3,707,N-W,15,13,3,1,270,6,29,56,442,Neutral,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,3,29,56,442,Neutral,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,3,29,56,442,Neutral,Very Good
+Female,18-25,2,707,N-W,15,13,3,1,270,3,29,56,442,Neutral,Good
+Male,18-25,2,707,N-W,15,13,3,1,270,3,29,56,442,Neutral,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,2,29,56,442,Slightly Cool,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,2,29,56,442,Neutral,Good
+Male,18-25,2,707,N-W,15,13,3,1,270,2,29,56,442,Neutral,Excellent
+Male,18-25,3,707,N-W,15,13,3,1,270,2,29,56,442,Neutral,Fair
+Male,18-25,3,707,N-W,15,13,3,1,270,2,29,56,442,Neutral,Good
+Female,18-25,3,707,N-W,15,13,3,1,270,3,29,56,442,Slightly Cool,Excellent
+Male,18-25,3,707,N-W,15,13,3,1,270,4,29,56,442,Neutral,Excellent
+Male,18-25,2,707,N-W,15,13,3,1,270,4,29,56,442,Warm,Fair
+Female,18-25,2,707,N-W,15,13,3,1,270,4,29,56,442,Neutral,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,2,29,56,442,Slightly Cool,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,2,29,56,442,Slightly Cool,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,4,29,56,442,Slightly Warm,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,4,29,56,442,Neutral,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,4,29,56,442,Warm,Fair
+Female,18-25,3,707,N-W,15,13,3,1,270,4,29,56,442,Slightly Warm,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,5,29,56,442,Neutral,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,5,29,56,442,Slightly Warm,Adequate
+Male,18-25,2,707,N-W,15,13,3,1,270,5,29,56,442,Warm,Good
+Male,18-25,2,707,N-W,15,13,3,1,270,5,29,56,442,Slightly Warm,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,5,29,56,442,Hot,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,5,29,56,442,Hot,Fair
+Female,18-25,2,707,N-W,15,13,3,1,270,5,29,56,442,Slightly Warm,Good
+Female,18-25,3,707,N-W,15,13,3,1,270,5,29,56,442,Neutral,Fair
+Male,18-25,2,707,N-W,15,13,3,1,270,5,29,56,442,Hot,Good
+Female,18-25,2,707,N-W,15,13,3,1,270,5,29,56,442,Slightly Warm,Excellent
+Female,18-25,2,707,N-W,15,13,3,1,270,5,29,56,442,Slightly Warm,Very Good
+Female,18-25,2,707,N-W,15,13,3,1,270,5,29,56,442,Neutral,Fair
+Female,18-25,2,707,N-W,15,13,3,1,270,5,29,56,442,Warm,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Hot,Fair
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Warm,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Warm,Fair
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Warm,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Hot,Good
+Female,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Slightly Warm,Poor
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Warm,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Warm,Excellent
+Male,18-25,2,804,N-W,25,13,5,2,320,6,30,64,449,Warm,Fair
+Male,18-25,2,804,N-W,25,13,5,2,320,6,30,64,449,Warm,Good
+Female,18-25,2,804,N-W,25,13,5,2,320,6,30,64,449,Slightly Warm,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,4,30,64,449,Slightly Warm,Excellent
+Female,18-25,2,804,N-W,25,13,5,2,320,4,30,64,449,Warm,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,4,30,64,449,Slightly Warm,Good
+Female,18-25,2,804,N-W,25,13,5,2,320,4,30,64,449,Neutral,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,4,30,64,449,Warm,Excellent
+Female,18-25,2,804,N-W,25,13,5,2,320,3,30,64,449,Slightly Warm,Very Good
+Male,18-25,2,804,N-W,25,13,5,2,320,3,30,64,449,Warm,Fair
+Male,18-25,2,804,N-W,25,13,5,2,320,6,30,64,449,Hot,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,3,30,64,449,Warm,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Hot,Excellent
+Male,18-25,2,804,N-W,25,13,5,2,320,3,30,64,449,Slightly Warm,Excellent
+Male,18-25,2,804,N-W,25,13,5,2,320,3,30,64,449,Warm,Fair
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Hot,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,2,30,64,449,Warm,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,2,30,64,449,Warm,Excellent
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Hot,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,2,30,64,449,Slightly Warm,Excellent
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Hot,Fair
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Hot,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Warm,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Warm,Excellent
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Hot,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Hot,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Hot,Good
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Warm,Excellent
+Male,18-25,2,804,N-W,25,13,5,2,320,5,30,64,449,Warm,Good
+Male,18-25,3,803,N-E,23,12,5,2,290,2,30,64,449,Slightly Warm,Good
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Hot,Excellent
+Male,18-25,3,803,N-E,23,12,5,2,290,2,30,64,449,Warm,Excellent
+Male,18-25,3,803,N-E,23,12,5,2,290,2,30,64,449,Warm,Fair
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Hot,Good
+Female,18-25,3,803,N-E,23,12,5,2,290,6,30,64,449,Hot,Adequate
+Female,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Hot,Adequate
+Female,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Warm,Fair
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Hot,Good
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Slightly Warm,Good
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Hot,Fair
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Warm,Good
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Hot,Fair
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Hot,Fair
+Male,18-25,3,803,N-E,23,12,5,2,290,2,30,64,449,Slightly Warm,Good
+Male,18-25,3,803,N-E,23,12,5,2,290,6,30,64,449,Hot,Good
+Female,18-25,3,803,N-E,23,12,5,2,290,2,30,64,449,Warm,Excellent
+Male,18-25,3,803,N-E,23,12,5,2,290,2,30,64,449,Warm,Good
+Male,18-25,3,803,N-E,23,12,5,2,290,6,30,64,449,Hot,Good
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Warm,Good
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Warm,Excellent
+Female,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Slightly Warm,Fair
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Hot,Fair
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Hot,Good
+Male,26-30,3,803,N-E,23,12,5,2,290,5,30,64,449,Warm,Fair
+Male,26-30,3,803,N-E,23,12,5,2,290,5,30,64,449,Hot,Fair
+Male,26-30,3,803,N-E,23,12,5,2,290,3,30,64,449,Neutral,Excellent
+Male,18-25,3,803,N-E,23,12,5,2,290,3,30,64,449,Slightly Warm,Excellent
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Hot,Adequate
+Male,18-25,3,803,N-E,23,12,5,2,290,5,30,64,449,Hot,Good
+Male,26-30,3,805,N-W,24,13,4,1,290,2,30,64,449,Slightly Warm,Excellent
+Male,26-30,3,805,N-W,24,13,4,1,290,5,30,64,449,Hot,Fair
+Female,26-30,3,805,N-W,24,13,4,1,290,2,30,64,449,Warm,Good
+Male,18-25,3,805,N-W,24,13,4,1,290,2,30,64,449,Neutral,Good
+Male,18-25,3,805,N-W,24,13,4,1,290,2,30,64,449,Warm,Excellent
+Female,18-25,3,805,N-W,24,13,4,1,290,5,30,64,449,Slightly Warm,Good
+Male,26-30,3,805,N-W,24,13,4,1,290,5,30,64,449,Warm,Excellent
+Male,26-30,3,805,N-W,24,13,4,1,290,5,30,64,449,Warm,Fair
+Female,26-30,3,805,N-W,24,13,4,1,290,5,30,64,449,Hot,Good
+Female,18-25,3,805,N-W,24,13,4,1,290,5,30,64,449,Hot,Good
+Male,18-25,3,805,N-W,24,13,4,1,290,5,30,64,449,Warm,Excellent
+Male,18-25,3,805,N-W,24,13,4,1,290,5,30,64,449,Warm,Good
+Male,18-25,3,805,N-W,24,13,4,1,290,5,30,64,449,Hot,Good
+Male,18-25,3,805,N-W,24,13,4,1,290,5,30,64,449,Hot,Good
+Male,18-25,3,805,N-W,24,13,4,1,290,5,30,64,449,Hot,Fair
+Male,18-25,3,805,N-W,24,13,4,1,290,5,30,64,449,Hot,Fair
+Male,18-25,3,805,N-W,24,13,4,1,290,6,30,64,449,Warm,Fair
+Male,18-25,3,805,N-W,24,13,4,1,290,2,30,64,449,Hot,Good
+Female,18-25,3,805,N-W,24,13,4,1,290,2,30,64,449,Slightly Warm,Good
+Male,18-25,3,805,N-W,24,13,4,1,290,2,30,64,449,Slightly Warm,Good
+Male,18-25,3,805,N-W,24,13,4,1,290,6,30,64,449,Warm,Excellent
+Male,18-25,3,805,N-W,24,13,4,1,290,6,30,64,449,Warm,Fair
+Male,18-25,3,805,N-W,24,13,4,1,290,6,30,64,449,Warm,Good
+Female,18-25,3,805,N-W,24,13,4,1,290,5,30,64,449,Neutral,Good
+Male,18-25,3,805,N-W,24,13,4,1,290,5,30,64,449,Warm,Excellent
+Female,18-25,3,805,N-W,24,13,4,1,290,5,30,64,449,Slightly Warm,Good
+Male,18-25,3,805,N-W,24,13,4,1,290,5,30,64,449,Slightly Warm,Excellent
+Male,18-25,3,802,N-E,24,16,3,1,290,5,30,64,449,Neutral,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,5,30,64,449,Hot,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,5,30,64,449,Slightly Warm,Excellent
+Female,18-25,3,802,N-E,24,16,3,1,290,2,30,64,449,Cold,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,5,30,64,449,Slightly Warm,Excellent
+Male,18-25,3,802,N-E,24,16,3,1,290,3,30,64,449,Warm,Fair
+Male,18-25,3,802,N-E,24,16,3,1,290,3,30,64,449,Warm,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,3,30,64,449,Neutral,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,3,30,64,449,Warm,Excellent
+Female,18-25,3,802,N-E,24,16,3,1,290,5,30,64,449,Hot,Poor
+Male,18-25,3,802,N-E,24,16,3,1,290,2,30,64,449,Neutral,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,2,30,64,449,Warm,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,2,30,64,449,Warm,Excellent
+Male,18-25,3,802,N-E,24,16,3,1,290,6,30,64,449,Slightly Warm,Excellent
+Male,18-25,3,802,N-E,24,16,3,1,290,6,30,64,449,Slightly Warm,Adequate
+Female,18-25,3,802,N-E,24,16,3,1,290,6,30,64,449,Warm,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,5,30,64,449,Neutral,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,5,30,64,449,Warm,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,4,30,64,449,Hot,Excellent
+Male,18-25,3,802,N-E,24,16,3,1,290,5,30,64,449,Warm,Fair
+Female,18-25,3,802,N-E,24,16,3,1,290,5,30,64,449,Neutral,Adequate
+Male,18-25,3,802,N-E,24,16,3,1,290,3,30,64,449,Warm,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,5,30,64,449,Hot,Poor
+Male,18-25,3,802,N-E,24,16,3,1,290,3,30,64,449,Neutral,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,2,30,64,449,Warm,Excellent
+Male,18-25,3,802,N-E,24,16,3,1,290,2,30,64,449,Neutral,Poor
+Male,18-25,3,802,N-E,24,16,3,1,290,2,30,64,449,Warm,Good
+Male,18-25,3,802,N-E,24,16,3,1,290,2,30,64,449,Warm,Excellent
+Male,18-25,3,823,S-E,26,13,3,2,300,5,27,64,443,Hot,Good
+Female,18-25,3,823,S-E,26,13,3,2,300,3,27,64,443,Neutral,Very Good
+Male,18-25,3,823,S-E,26,13,3,2,300,2,27,64,443,Neutral,Poor
+Female,18-25,3,823,S-E,26,13,3,2,300,4,27,64,443,Neutral,Good
+Male,18-25,3,823,S-E,26,13,3,2,300,2,27,64,443,Neutral,Good
+Male,18-25,3,823,S-E,26,13,3,2,300,2,27,64,443,Neutral,Excellent
+Male,18-25,3,823,S-E,26,13,3,2,300,6,27,64,443,Slightly Warm,Excellent
+Female,18-25,3,823,S-E,26,13,3,2,300,6,27,64,443,Neutral,Adequate
+Male,18-25,3,823,S-E,26,13,3,2,300,6,27,64,443,Slightly Warm,Good
+Male,18-25,3,823,S-E,26,13,3,2,300,5,27,64,443,Neutral,Good
+Male,18-25,3,823,S-E,26,13,3,2,300,3,27,64,443,Neutral,Good
+Female,18-25,3,823,S-E,26,13,3,2,300,3,27,64,443,Neutral,Excellent
+Male,18-25,3,823,S-E,26,13,3,2,300,3,27,64,443,Neutral,Fair
+Male,18-25,3,823,S-E,26,13,3,2,300,5,27,64,443,Neutral,Adequate
+Female,18-25,3,823,S-E,26,13,3,2,300,3,27,64,443,Neutral,Good
+Male,18-25,3,823,S-E,26,13,3,2,300,3,27,64,443,Slightly Warm,Excellent
+Female,18-25,3,823,S-E,26,13,3,2,300,3,27,64,443,Warm,Good
+Male,18-25,3,823,S-E,26,13,3,2,300,2,27,64,443,Slightly Warm,Excellent
+Male,18-25,3,823,S-E,26,13,3,2,300,2,27,64,443,Slightly Warm,Poor
+Male,18-25,3,823,S-E,26,13,3,2,300,5,27,64,443,Hot,Good
+Female,18-25,3,823,S-E,26,13,3,2,300,2,27,64,443,Cold,Excellent
+Male,18-25,3,823,S-E,26,13,3,2,300,3,27,64,443,Slightly Warm,Good
+Male,18-25,3,823,S-E,26,13,3,2,300,3,27,64,443,Slightly Warm,Excellent
+Female,18-25,3,823,S-E,26,13,3,2,300,2,27,64,443,Warm,Poor
+Male,18-25,3,823,S-E,26,13,3,2,300,2,27,64,443,Slightly Warm,Good
+Female,18-25,3,823,S-E,26,13,3,2,300,2,27,64,443,Slightly Warm,Good
+Male,18-25,3,801,S-W,28,8,3,2,300,6,30,53,451,Hot,Good
+Male,18-25,4,801,S-W,28,8,3,2,300,5,30,53,451,Warm,Excellent
+Female,18-25,4,801,S-W,28,8,3,2,300,5,30,53,451,Hot,Poor
+Male,18-25,4,801,S-W,28,8,3,2,300,5,30,53,451,Warm,Good
+Male,18-25,4,801,S-W,28,8,3,2,300,5,30,53,451,Slightly Warm,Good
+Male,18-25,4,801,S-W,28,8,3,2,300,5,30,53,451,Warm,Excellent
+Male,18-25,4,801,S-W,28,8,3,2,300,3,30,53,451,Slightly Warm,Excellent
+Female,18-25,4,801,S-W,28,8,3,2,300,3,30,53,451,Warm,Adequate
+Male,18-25,4,801,S-W,28,8,3,2,300,3,30,53,451,Neutral,Good
+Female,18-25,3,801,S-W,28,8,3,2,300,2,30,53,451,Warm,Good
+Male,18-25,4,801,S-W,28,8,3,2,300,2,30,53,451,Warm,Good
+Female,18-25,4,801,S-W,28,8,3,2,300,5,30,53,451,Hot,Fair
+Male,18-25,4,801,S-W,28,8,3,2,300,4,30,53,451,Warm,Fair
+Male,18-25,4,801,S-W,28,8,3,2,300,3,30,53,451,Slightly Warm,Adequate
+Male,18-25,4,801,S-W,28,8,3,2,300,3,30,53,451,Warm,Good
+Female,18-25,4,801,S-W,28,8,3,2,300,6,30,53,451,Hot,Good
+Female,18-25,4,801,S-W,28,8,3,2,300,5,30,53,451,Warm,Good
+Male,18-25,3,801,S-W,28,8,3,2,300,5,30,53,451,Warm,Excellent
+Female,18-25,3,801,S-W,28,8,3,2,300,5,30,53,451,Slightly Warm,Poor
+Male,18-25,3,801,S-W,28,8,3,2,300,5,30,53,451,Warm,Good
+Female,18-25,3,801,S-W,28,8,3,2,300,5,30,53,451,Slightly Warm,Excellent
+Male,18-25,3,801,S-W,28,8,3,2,300,3,30,53,451,Neutral,Good
+Male,18-25,3,801,S-W,28,8,3,2,300,3,30,53,451,Slightly Warm,Excellent
+Male,18-25,3,801,S-W,28,8,3,2,300,4,30,53,451,Hot,Poor
+Female,18-25,3,801,S-W,28,8,3,2,300,5,30,53,451,Hot,Poor
+Male,18-25,3,801,S-W,28,8,3,2,300,2,30,53,451,Warm,Good
+Male,18-25,3,801,S-W,28,8,3,2,300,2,30,53,451,Slightly Warm,Good
+Male,18-25,3,801,S-W,28,8,3,2,300,2,30,53,451,Warm,Excellent
+Male,26-30,3,801,S-W,28,8,3,2,300,6,30,53,451,Slightly Warm,Excellent
+Female,26-30,3,801,S-W,28,8,3,2,300,5,30,53,451,Slightly Warm,Adequate
+Male,18-25,3,801,S-W,28,8,3,2,300,5,30,53,451,Slightly Warm,Good
+Male,18-25,4,801,S-W,28,8,3,2,300,5,30,53,451,Slightly Warm,Good
+Male,18-25,4,801,S-W,28,8,3,2,300,5,30,53,451,Hot,Good
+Male,18-25,4,801,S-W,28,8,3,2,300,5,30,53,451,Warm,Excellent
+Female,18-25,4,801,S-W,28,8,3,2,300,5,30,53,451,Hot,Fair
+Female,18-25,4,801,S-W,28,8,3,2,300,3,30,53,451,Warm,Adequate
+Male,18-25,4,801,S-W,28,8,3,2,300,3,30,53,451,Warm,Good
+Male,18-25,4,801,S-W,28,8,3,2,300,2,30,53,451,Warm,Excellent
+Female,18-25,3,801,S-W,28,8,3,2,300,2,30,53,451,Slightly Warm,Poor
+Female,18-25,3,801,S-W,28,8,3,2,300,5,30,53,451,Hot,Good
+Female,18-25,3,801,S-W,28,8,3,2,300,5,30,53,451,Hot,Good
+Male,18-25,3,801,S-W,28,8,3,2,300,3,30,53,451,Slightly Warm,Excellent
+Female,18-25,3,801,S-W,28,8,3,2,300,3,30,53,451,Neutral,Very Good
+Male,18-25,3,801,S-W,28,8,3,2,300,2,30,53,451,Slightly Warm,Adequate
+Female,18-25,2,913,N-W,18,6,3,1,270,2,30,64,450,Slightly Cool,Adequate
+Male,18-25,2,913,N-W,18,6,3,1,270,2,30,64,450,Warm,Good
+Male,18-25,2,913,N-W,18,6,3,1,270,2,30,64,450,Neutral,Good
+Male,18-25,2,913,N-W,18,6,3,1,270,3,30,64,450,Slightly Warm,Good
+Female,18-25,2,913,N-W,18,6,3,1,270,3,30,64,450,Neutral,Fair
+Male,18-25,2,913,N-W,18,6,3,1,270,2,30,64,450,Slightly Warm,Fair
+Female,18-25,2,913,N-W,18,6,3,1,270,2,30,64,450,Cool,Adequate
+Male,18-25,2,913,N-W,18,6,3,1,270,4,30,64,450,Slightly Warm,Good
+Male,18-25,2,913,N-W,18,6,3,1,270,4,30,64,450,Neutral,Excellent
+Male,18-25,2,913,N-W,18,6,3,1,270,4,30,64,450,Neutral,Good
+Male,18-25,3,913,N-W,18,6,3,1,270,4,30,64,450,Warm,Excellent
+Male,18-25,3,913,N-W,18,6,3,1,270,3,30,64,450,Warm,Poor
+Female,18-25,3,913,N-W,18,6,3,1,270,3,30,64,450,Slightly Warm,Good
+Female,18-25,3,913,N-W,18,6,3,1,270,3,30,64,450,Warm,Excellent
+Male,18-25,3,913,N-W,18,6,3,1,270,5,30,64,450,Hot,Good
+Female,18-25,3,913,N-W,18,6,3,1,270,3,30,64,450,Slightly Warm,Excellent
+Female,18-25,3,913,N-W,18,6,3,1,270,3,30,64,450,Neutral,Poor
+Male,18-25,3,913,N-W,18,6,3,1,270,3,30,64,450,Slightly Warm,Poor
+Female,18-25,3,913,N-W,18,6,3,1,270,3,30,64,450,Warm,Good
+Female,18-25,3,913,N-W,18,6,3,1,270,5,30,64,450,Hot,Good
+Male,18-25,3,913,N-W,18,6,3,1,270,5,30,64,450,Warm,Excellent
+Male,18-25,2,913,N-W,18,6,3,1,270,5,30,64,450,Slightly Warm,Excellent
+Female,18-25,2,913,N-W,18,6,3,1,270,5,30,64,450,Warm,Adequate
+Male,18-25,2,913,N-W,18,6,3,1,270,5,30,64,450,Slightly Warm,Good
+Female,18-25,2,913,N-W,18,6,3,1,270,6,30,64,450,Warm,Good
+Female,18-25,2,913,N-W,18,6,3,1,270,6,30,64,450,Neutral,Adequate
+Male,18-25,2,913,N-W,18,6,3,1,270,6,30,64,450,Neutral,Good
+Female,18-25,2,913,N-W,18,6,3,1,270,6,30,64,450,Warm,Good
+Female,18-25,2,913,N-W,18,6,3,1,270,6,30,64,450,Slightly Warm,Good
+Male,18-25,3,909,N-W,18,5,3,1,270,4,30,64,450,Warm,Excellent
+Male,18-25,3,909,N-W,18,5,3,1,270,4,30,64,450,Neutral,Good
+Male,18-25,3,909,N-W,18,5,3,1,270,4,30,64,450,Slightly Warm,Excellent
+Male,18-25,2,909,N-W,18,5,3,1,270,3,30,64,450,Warm,Poor
+Male,18-25,2,909,N-W,18,5,3,1,270,5,30,64,450,Hot,Good
+Male,18-25,2,909,N-W,18,5,3,1,270,3,30,64,450,Warm,Excellent
+Male,18-25,2,909,N-W,18,5,3,1,270,3,30,64,450,Slightly Warm,Good
+Male,18-25,2,909,N-W,18,5,3,1,270,3,30,64,450,Slightly Warm,Excellent
+Male,26-30,2,909,N-W,18,5,3,1,270,3,30,64,450,Neutral,Poor
+Male,26-30,2,909,N-W,18,5,3,1,270,3,30,64,450,Neutral,Poor
+Male,26-30,2,909,N-W,18,5,3,1,270,3,30,64,450,Slightly Warm,Good
+Male,18-25,3,909,N-W,18,5,3,1,270,5,30,64,450,Slightly Warm,Good
+Male,18-25,3,909,N-W,18,5,3,1,270,5,30,64,450,Hot,Good
+Female,18-25,3,909,N-W,18,5,3,1,270,5,30,64,450,Neutral,Good
+Male,18-25,2,909,N-W,18,5,3,1,270,5,30,64,450,Warm,Adequate
+Male,18-25,2,909,N-W,18,5,3,1,270,5,30,64,450,Warm,Good
+Male,18-25,2,909,N-W,18,5,3,1,270,6,30,64,450,Neutral,Good
+Male,18-25,2,909,N-W,18,5,3,1,270,6,30,64,450,Slightly Warm,Adequate
+Female,18-25,2,909,N-W,18,5,3,1,270,6,30,64,450,Neutral,Good
+Male,18-25,2,909,N-W,18,5,3,1,270,6,30,64,450,Hot,Good
+Male,18-25,2,909,N-W,18,5,3,1,270,6,30,64,450,Warm,Good
+Female,18-25,2,904,S-W,22,9,5,1,300,6,30,64,450,Warm,Poor
+Male,18-25,2,904,S-W,22,9,5,1,300,4,30,64,450,Hot,Poor
+Male,18-25,2,904,S-W,22,9,5,1,300,4,30,64,450,Warm,Good
+Male,18-25,2,904,S-W,22,9,5,1,300,4,30,64,450,Warm,Good
+Male,18-25,2,904,S-W,22,9,5,1,300,3,30,64,450,Hot,Fair
+Male,18-25,2,904,S-W,22,9,5,1,300,3,30,64,450,Hot,Fair
+Male,18-25,2,904,S-W,22,9,5,1,300,3,30,64,450,Hot,Fair
+Male,18-25,3,904,S-W,22,9,5,1,300,3,30,64,450,Neutral,Good
+Male,18-25,3,904,S-W,22,9,5,1,300,3,30,64,450,Hot,Good
+Male,18-25,3,904,S-W,22,9,5,1,300,3,30,64,450,Hot,Adequate
+Female,18-25,2,904,S-W,22,9,5,1,300,3,30,64,450,Warm,Good
+Male,18-25,2,904,S-W,22,9,5,1,300,3,30,64,450,Hot,Good
+Female,18-25,2,904,S-W,22,9,5,1,300,5,30,64,450,Hot,Good
+Female,18-25,2,904,S-W,22,9,5,1,300,5,30,64,450,Slightly Warm,Poor
+Female,18-25,2,904,S-W,22,9,5,1,300,5,30,64,450,Warm,Good
+Female,18-25,2,904,S-W,22,9,5,1,300,5,30,64,450,Slightly Warm,Good
+Male,18-25,2,904,S-W,22,9,5,1,300,5,30,64,450,Hot,Fair
+Male,18-25,2,904,S-W,22,9,5,1,300,6,30,64,450,Hot,Good
+Female,18-25,2,904,S-W,22,9,5,1,300,6,30,64,450,Hot,Good
+Male,26-30,2,904,S-W,22,9,5,1,300,6,30,64,450,Warm,Fair
+Male,26-30,2,904,S-W,22,9,5,1,300,6,30,64,450,Warm,Good
+Male,26-30,2,904,S-W,22,9,5,1,300,6,30,64,450,Hot,Adequate
+Male,18-25,2,904,S-W,22,9,5,1,300,6,30,64,450,Hot,Good
+Female,18-25,2,904,S-W,22,9,5,1,300,4,30,64,450,Warm,Good
+Male,18-25,3,904,S-W,22,9,5,1,300,4,30,64,450,Hot,Good
+Female,18-25,3,904,S-W,22,9,5,1,300,4,30,64,450,Warm,Fair
+Male,18-25,3,904,S-W,22,9,5,1,300,3,30,64,450,Hot,Good
+Male,18-25,2,904,S-W,22,9,5,1,300,3,30,64,450,Hot,Good
+Female,18-25,2,904,S-W,22,9,5,1,300,3,30,64,450,Warm,Poor
+Female,18-25,2,904,S-W,22,9,5,1,300,3,30,64,450,Warm,Good
+Male,18-25,2,904,S-W,22,9,5,1,300,3,30,64,450,Slightly Warm,Excellent
+Male,18-25,2,904,S-W,22,9,5,1,300,3,30,64,450,Slightly Warm,Good
+Female,18-25,2,904,S-W,22,9,5,1,300,3,30,64,450,Warm,Very Good
+Male,18-25,2,904,S-W,22,9,5,1,300,3,30,64,450,Hot,Good
+Female,18-25,2,904,S-W,22,9,5,1,300,5,30,64,450,Hot,Fair
+Male,18-25,2,904,S-W,22,9,5,1,300,5,30,64,450,Hot,Fair
+Female,18-25,2,904,S-W,22,9,5,1,300,5,30,64,450,Hot,Adequate
+Male,26-30,2,924,S-E,26,9,3,1,300,6,31,64,453,Slightly Warm,Poor
+Female,18-25,2,924,S-E,26,9,3,1,300,6,31,64,453,Slightly Warm,Good
+Male,18-25,2,924,S-E,26,9,3,1,300,6,31,64,453,Warm,Good
+Male,18-25,2,924,S-E,26,9,3,1,300,6,31,64,453,Neutral,Excellent
+Male,18-25,2,924,S-E,26,9,3,1,300,6,31,64,453,Slightly Warm,Excellent
+Male,18-25,2,924,S-E,26,9,3,1,300,6,31,64,453,Neutral,Adequate
+Male,18-25,2,924,S-E,26,9,3,1,300,4,31,64,453,Hot,Good
+Male,18-25,2,924,S-E,26,9,3,1,300,4,31,64,453,Hot,Good
+Male,18-25,2,924,S-E,26,9,3,1,300,4,31,64,453,Neutral,Adequate
+Male,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Slightly Warm,Good
+Male,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Neutral,Good
+Male,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Neutral,Good
+Female,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Neutral,Excellent
+Female,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Cold,Good
+Female,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Slightly Warm,Excellent
+Male,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Neutral,Poor
+Male,26-30,2,924,S-E,26,9,3,1,300,3,31,64,453,Warm,Good
+Female,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Slightly Cool,Excellent
+Male,18-25,2,924,S-E,26,9,3,1,300,5,31,64,453,Slightly Warm,Good
+Female,18-25,2,924,S-E,26,9,3,1,300,5,31,64,453,Slightly Warm,Poor
+Female,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Slightly Cool,Good
+Male,18-25,2,924,S-E,26,9,3,1,300,6,31,64,453,Neutral,Good
+Male,18-25,2,924,S-E,26,9,3,1,300,6,31,64,453,Slightly Warm,Excellent
+Male,18-25,2,924,S-E,26,9,3,1,300,6,31,64,453,Slightly Warm,Adequate
+Male,18-25,2,924,S-E,26,9,3,1,300,6,31,64,453,Warm,Poor
+Male,18-25,2,924,S-E,26,9,3,1,300,6,31,64,453,Slightly Warm,Good
+Male,18-25,2,924,S-E,26,9,3,1,300,4,31,64,453,Warm,Good
+Male,18-25,2,924,S-E,26,9,3,1,300,4,31,64,453,Neutral,Excellent
+Male,18-25,2,924,S-E,26,9,3,1,300,4,31,64,453,Neutral,Excellent
+Male,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Slightly Warm,Adequate
+Male,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Slightly Warm,Good
+Male,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Slightly Warm,Good
+Male,26-30,2,924,S-E,26,9,3,1,300,3,31,64,453,Slightly Warm,Adequate
+Male,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Slightly Warm,Good
+Male,18-25,2,924,S-E,26,9,3,1,300,3,31,64,453,Slightly Warm,Good
+Male,18-25,3,907,N-W,18,5,2,1,270,6,31,64,453,Neutral,Good
+Female,18-25,3,907,N-W,18,5,2,1,270,4,31,64,453,Slightly Warm,Fair
+Female,26-30,3,907,N-W,18,5,2,1,270,4,31,64,453,Neutral,Good
+Male,18-25,3,907,N-W,18,5,2,1,270,4,31,64,453,Slightly Warm,Excellent
+Male,18-25,3,907,N-W,18,5,2,1,270,6,31,64,453,Hot,Fair
+Female,18-25,3,907,N-W,18,5,2,1,270,3,31,64,453,Slightly Cool,Adequate
+Male,18-25,3,907,N-W,18,5,2,1,270,3,31,64,453,Slightly Warm,Poor
+Female,26-30,3,907,N-W,18,5,2,1,270,3,31,64,453,Slightly Cool,Good
+Male,18-25,3,907,N-W,18,5,2,1,270,3,31,64,453,Warm,Good
+Male,18-25,3,907,N-W,18,5,2,1,270,3,31,64,453,Slightly Warm,Excellent
+Male,18-25,3,907,N-W,18,5,2,1,270,6,31,64,453,Hot,Fair
+Female,18-25,3,907,N-W,18,5,2,1,270,3,31,64,453,Slightly Cool,Adequate
+Male,18-25,3,907,N-W,18,5,2,1,270,4,31,64,453,Hot,Good
+Female,18-25,3,907,N-W,18,5,2,1,270,4,31,64,453,Hot,Good
+Male,18-25,3,907,N-W,18,5,2,1,270,3,31,64,453,Warm,Adequate
+Male,18-25,3,907,N-W,18,5,2,1,270,3,31,64,453,Neutral,Good
+Male,18-25,3,907,N-W,18,5,2,1,270,3,31,64,453,Neutral,Good
+Male,18-25,2,907,N-W,18,5,2,1,270,5,31,64,453,Hot,Good
+Male,18-25,2,907,N-W,18,5,2,1,270,5,31,64,453,Hot,Fair
+Male,18-25,2,907,N-W,18,5,2,1,270,3,31,64,453,Warm,Good
+Male,18-25,3,907,N-W,18,5,2,1,270,6,31,64,453,Slightly Warm,Excellent
+Male,18-25,3,907,N-W,18,5,2,1,270,4,31,64,453,Hot,Fair
+Male,18-25,3,907,N-W,18,5,2,1,270,4,31,64,453,Hot,Adequate
+Male,18-25,3,907,N-W,18,5,2,1,270,4,31,64,453,Neutral,Poor
+Female,18-25,3,908,N-W,10,5,2,1,270,3,31,60,453,Warm,Good
+Male,18-25,3,908,N-W,10,5,2,1,270,6,31,60,453,Neutral,Good
+Male,18-25,3,908,N-W,10,5,2,1,270,4,31,60,453,Hot,Good
+Female,18-25,3,908,N-W,10,5,2,1,270,4,31,60,453,Neutral,Fair
+Female,18-25,3,908,N-W,10,5,2,1,270,4,31,60,453,Slightly Warm,Adequate
+Male,18-25,3,908,N-W,10,5,2,1,270,3,31,60,453,Hot,Good
+Male,18-25,3,908,N-W,10,5,2,1,270,3,31,60,453,Neutral,Good
+Female,18-25,3,908,N-W,10,5,2,1,270,5,31,60,453,Hot,Adequate
+Male,18-25,3,908,N-W,10,5,2,1,270,5,31,60,453,Hot,Good
+Male,18-25,3,908,N-W,10,5,2,1,270,3,31,60,453,Neutral,Good
+Female,18-25,3,908,N-W,10,5,2,1,270,3,31,60,453,Cold,Good
+Male,18-25,3,908,N-W,10,5,2,1,270,6,31,60,453,Hot,Fair
+Female,18-25,3,908,N-W,10,5,2,1,270,4,31,60,453,Slightly Cool,Good
+Male,18-25,3,908,N-W,10,5,2,1,270,4,31,60,453,Hot,Fair
+Female,18-25,3,908,N-W,10,5,2,1,270,4,31,60,453,Hot,Fair
+Male,18-25,3,908,N-W,10,5,2,1,270,3,31,60,453,Slightly Warm,Adequate
+Male,18-25,3,908,N-W,10,5,2,1,270,6,31,60,453,Neutral,Poor
+Male,18-25,3,908,N-W,10,5,2,1,270,4,31,60,453,Hot,Good
+Female,18-25,3,908,N-W,10,5,2,1,270,4,31,60,453,Hot,Good
+Male,18-25,3,908,N-W,10,5,2,1,270,4,31,60,453,Neutral,Excellent
+Male,18-25,3,908,N-W,10,5,2,1,270,5,31,60,453,Hot,Good
+Male,26-30,3,901,S-E,21,9,3,2,320,4,31,60,453,Slightly Warm,Excellent
+Male,18-25,3,901,S-E,21,9,3,2,320,3,31,60,453,Warm,Good
+Male,18-25,3,901,S-E,21,9,3,2,320,6,31,60,453,Slightly Warm,Excellent
+Female,18-25,3,901,S-E,21,9,3,2,320,4,31,60,453,Warm,Good
+Male,18-25,3,901,S-E,21,9,3,2,320,5,31,60,453,Hot,Adequate
+Female,26-30,3,901,S-E,21,9,3,2,320,5,31,60,453,Hot,Poor
+Female,18-25,3,901,S-E,21,9,3,2,320,3,31,60,453,Cool,Good
+Female,18-25,3,901,S-E,21,9,3,2,320,3,31,60,453,Warm,Good
+Male,18-25,3,901,S-E,21,9,3,2,320,5,31,60,453,Hot,Fair
+Female,18-25,3,901,S-E,21,9,3,2,320,5,31,60,453,Hot,Fair
+Female,18-25,3,901,S-E,21,9,3,2,320,5,31,60,453,Hot,Adequate
+Male,18-25,3,901,S-E,21,9,3,2,320,4,31,60,453,Hot,Good
+Female,18-25,3,901,S-E,21,9,3,2,320,4,31,60,453,Warm,Good
+Female,18-25,3,901,S-E,21,9,3,2,320,4,31,60,453,Warm,Adequate
+Female,18-25,3,901,S-E,21,9,3,2,320,4,31,60,453,Warm,Good
+Female,18-25,3,901,S-E,21,9,3,2,320,4,31,60,453,Slightly Warm,Good
+Female,18-25,3,901,S-E,21,9,3,2,320,2,31,60,453,Cool,Good
+Male,18-25,3,901,S-E,21,9,3,2,320,6,31,60,453,Hot,Fair
+Male,18-25,3,901,S-E,21,9,3,2,320,4,31,60,453,Hot,Good
+Female,18-25,4,901,S-E,21,9,3,2,320,4,31,60,453,Hot,Fair
+Female,18-25,4,901,S-E,21,9,3,2,320,4,31,60,453,Hot,Very Good
+Male,18-25,3,901,S-E,21,9,3,2,320,3,31,60,453,Warm,Adequate
+Female,26-30,4,901,S-E,21,9,3,2,320,2,31,60,453,Warm,Poor
+Male,18-25,3,901,S-E,21,9,3,2,320,2,31,60,453,Slightly Warm,Good
+Female,18-25,3,901,S-E,21,9,3,2,320,2,31,60,453,Slightly Warm,Good
+Male,18-25,3,901,S-E,21,9,3,2,320,2,31,60,453,Slightly Warm,Excellent
+Male,18-25,3,901,S-E,21,9,3,2,320,2,31,60,453,Warm,Excellent
+Male,26-30,3,901,S-E,21,9,3,2,320,5,31,60,453,Hot,Good
+Female,18-25,3,901,S-E,21,9,3,2,320,2,31,60,453,Slightly Warm,Good
+Male,18-25,3,901,S-E,21,9,3,2,320,2,31,60,453,Warm,Excellent
+Female,18-25,3,901,S-E,21,9,3,2,320,2,31,60,453,Slightly Warm,Excellent
+Male,18-25,3,901,S-E,21,9,3,2,320,2,31,60,453,Slightly Warm,Adequate
+Male,18-25,3,901,S-E,21,9,3,2,320,5,31,60,453,Hot,Poor
+Male,18-25,3,901,S-E,21,9,3,2,320,2,31,60,453,Slightly Warm,Good
+Male,18-25,3,905,N-W,26,12,4,2,320,4,29,52,445,Neutral,Good
+Male,18-25,3,905,N-W,26,12,4,2,320,3,29,52,445,Neutral,Excellent
+Female,26-30,4,905,N-W,26,12,4,2,320,6,29,52,445,Slightly Cool,Good
+Female,18-25,4,905,N-W,26,12,4,2,320,2,29,52,445,Slightly Cool,Excellent
+Male,18-25,3,905,N-W,26,12,4,2,320,2,29,52,445,Slightly Warm,Excellent
+Male,18-25,4,905,N-W,26,12,4,2,320,4,29,52,445,Neutral,Adequate
+Male,18-25,3,905,N-W,26,12,4,2,320,3,29,52,445,Slightly Warm,Poor
+Male,18-25,3,905,N-W,26,12,4,2,320,2,29,52,445,Slightly Warm,Good
+Male,18-25,3,905,N-W,26,12,4,2,320,2,29,52,445,Slightly Cool,Good
+Male,18-25,3,905,N-W,26,12,4,2,320,2,29,52,445,Slightly Warm,Excellent
+Male,18-25,3,905,N-W,26,12,4,2,320,2,29,52,445,Slightly Warm,Excellent
+Female,26-30,3,905,N-W,26,12,4,2,320,2,29,52,445,Slightly Warm,Very Good
+Male,18-25,3,905,N-W,26,12,4,2,320,2,29,52,445,Neutral,Good
+Male,18-25,3,905,N-W,26,12,4,2,320,2,29,52,445,Warm,Excellent
+Female,18-25,3,905,N-W,26,12,4,2,320,2,29,52,445,Slightly Warm,Excellent
+Male,18-25,3,905,N-W,26,12,4,2,320,2,29,52,445,Slightly Warm,Adequate
+Male,18-25,3,905,N-W,26,12,4,2,320,2,29,52,445,Slightly Warm,Poor
+Male,18-25,3,905,N-W,26,12,4,2,320,2,29,52,445,Warm,Good
+Female,18-25,3,905,N-W,26,12,4,2,320,2,29,52,445,Neutral,Good
+Female,18-25,4,905,N-W,26,12,4,2,320,5,29,52,445,Slightly Warm,Poor
+Female,26-30,4,905,N-W,26,12,4,2,320,4,29,52,445,Slightly Warm,Good
+Female,18-25,3,905,N-W,26,12,4,2,320,5,29,52,445,Warm,Excellent
+Male,18-25,4,905,N-W,26,12,4,2,320,5,29,52,445,Neutral,Excellent
+Female,18-25,3,905,N-W,26,12,4,2,320,5,29,52,445,Warm,Adequate
+Male,18-25,3,905,N-W,26,12,4,2,320,5,29,52,445,Warm,Poor
+Male,18-25,3,905,N-W,26,12,4,2,320,5,29,52,445,Slightly Warm,Good
+Male,18-25,3,905,N-W,26,12,4,2,320,4,29,52,445,Warm,Good
+Male,18-25,3,905,N-W,26,12,4,2,320,4,29,52,445,Slightly Warm,Excellent
+Male,18-25,3,905,N-W,26,12,4,2,320,4,29,52,445,Slightly Warm,Excellent
+Male,18-25,2,1002,S-E,23,12,3,2,300,2,24,66,439,Warm,Good
+Male,18-25,2,1002,S-E,23,12,3,2,300,2,24,66,439,Neutral,Excellent
+Male,18-25,2,1002,S-E,23,12,3,2,300,2,24,66,439,Neutral,Excellent
+Male,18-25,2,1002,S-E,23,12,3,2,300,2,24,66,439,Slightly Warm,Adequate
+Female,18-25,2,1002,S-E,23,12,3,2,300,2,24,66,439,Slightly Cool,Poor
+Male,18-25,2,1002,S-E,23,12,3,2,300,2,24,66,439,Slightly Warm,Good
+Male,18-25,2,1002,S-E,23,12,3,2,300,2,24,66,439,Neutral,Good
+Male,18-25,2,1002,S-E,23,12,3,2,300,5,24,66,439,Neutral,Excellent
+Male,18-25,2,1002,S-E,23,12,3,2,300,4,24,66,439,Neutral,Excellent
+Female,18-25,2,1002,S-E,23,12,3,2,300,5,24,66,439,Slightly Cool,Poor
+Male,18-25,2,1002,S-E,23,12,3,2,300,5,24,66,439,Slightly Warm,Good
+Male,18-25,2,1002,S-E,23,12,3,2,300,5,24,66,439,Neutral,Excellent
+Male,18-25,2,1002,S-E,23,12,3,2,300,5,24,66,439,Neutral,Excellent
+Female,18-25,2,1002,S-E,23,12,3,2,300,5,24,66,439,Slightly Cool,Adequate
+Male,18-25,2,1002,S-E,23,12,3,2,300,4,24,66,439,Slightly Warm,Poor
+Male,18-25,2,1002,S-E,23,12,3,2,300,4,24,66,439,Neutral,Good
+Female,18-25,2,1002,S-E,23,12,3,2,300,4,24,66,439,Cold,Good
+Male,18-25,2,1002,S-E,23,12,3,2,300,2,24,66,439,Slightly Warm,Excellent
+Male,18-25,2,1004,N-W,24,12,5,2,320,2,27,64,441,Neutral,Good
+Male,18-25,2,1004,N-W,24,12,5,2,320,2,27,64,441,Neutral,Good
+Male,18-25,2,1004,N-W,24,12,5,2,320,5,27,64,441,Hot,Excellent
+Male,18-25,2,1004,N-W,24,12,5,2,320,2,27,64,441,Slightly Warm,Excellent
+Male,18-25,2,1004,N-W,24,12,5,2,320,2,27,64,441,Slightly Warm,Good
+Male,18-25,2,1004,N-W,24,12,5,2,320,2,27,64,441,Slightly Cool,Excellent
+Female,18-25,2,1004,N-W,24,12,5,2,320,2,27,64,441,Warm,Very Good
+Male,18-25,2,1004,N-W,24,12,5,2,320,5,27,64,441,Slightly Warm,Adequate
+Male,18-25,2,1004,N-W,24,12,5,2,320,4,27,64,441,Slightly Warm,Good
+Male,18-25,2,1004,N-W,24,12,5,2,320,5,27,64,441,Neutral,Good
+Male,18-25,2,1004,N-W,24,12,5,2,320,5,27,64,441,Warm,Excellent
+Male,26-30,2,1004,N-W,24,12,5,2,320,5,27,64,441,Slightly Warm,Excellent
+Male,18-25,2,1004,N-W,24,12,5,2,320,5,27,64,441,Slightly Warm,Good
+Male,26-30,2,1004,N-W,24,12,5,2,320,5,27,64,441,Slightly Warm,Excellent
+Male,18-25,2,1004,N-W,24,12,5,2,320,6,27,64,441,Hot,Excellent
+Female,18-25,2,1003,N-W,24,12,5,2,320,4,27,64,441,Neutral,Adequate
+Male,18-25,2,1004,N-W,24,12,5,2,320,4,27,64,441,Slightly Warm,Excellent
+Male,18-25,2,1004,N-W,24,12,5,2,320,6,27,64,441,Hot,Adequate
+Male,18-25,2,1004,N-W,24,12,5,2,320,2,27,64,441,Slightly Warm,Good
+Male,18-25,2,1004,N-W,24,12,5,2,320,2,27,64,441,Slightly Warm,Excellent
+Male,26-30,2,1004,N-W,24,12,5,2,320,2,27,64,441,Slightly Warm,Excellent
+Male,18-25,2,1004,N-W,24,12,5,2,320,6,27,64,441,Hot,Adequate
+Male,18-25,2,1004,N-W,24,12,5,2,320,2,27,64,441,Slightly Warm,Good
+Male,18-25,2,1004,N-W,24,12,5,2,320,2,27,64,441,Slightly Warm,Good
+Male,18-25,2,1004,N-W,24,12,5,2,320,2,27,64,441,Neutral,Excellent
+Male,18-25,2,1004,N-W,24,12,5,2,320,5,27,64,441,Hot,Adequate
+Male,18-25,2,1004,N-W,24,12,5,2,320,4,27,64,441,Neutral,Good
+Female,18-25,2,1004,N-W,24,12,5,2,320,5,27,64,441,Slightly Warm,Excellent
+Male,18-25,2,1004,N-W,24,12,5,2,320,5,27,64,441,Slightly Warm,Excellent
+Male,18-25,2,1004,N-W,24,12,5,2,320,5,27,64,441,Warm,Excellent
+Female,18-25,2,1003,S-E,24,12,5,2,320,4,27,64,441,Warm,Fair
+Male,18-25,2,1003,S-E,24,12,5,2,320,4,27,64,441,Neutral,Good
+Male,18-25,2,1003,S-E,24,12,5,2,320,4,27,64,441,Slightly Cool,Excellent
+Male,18-25,2,1003,S-E,24,12,5,2,320,5,27,64,441,Hot,Fair
+Male,18-25,2,1003,S-E,24,12,5,2,320,5,27,64,441,Hot,Adequate
+Male,18-25,2,1003,S-E,24,12,5,2,320,4,27,64,441,Warm,Poor
+Male,18-25,2,1003,S-E,24,12,5,2,320,2,27,64,441,Slightly Cool,Good
+Male,18-25,2,1003,S-E,24,12,5,2,320,2,27,64,441,Warm,Good
+Male,18-25,2,1003,S-E,24,12,5,2,320,2,27,64,441,Neutral,Excellent
+Male,18-25,2,1003,S-E,24,12,5,2,320,2,27,64,441,Slightly Warm,Good
+Male,18-25,2,1003,S-E,24,12,5,2,320,4,27,64,441,Hot,Excellent
+Male,18-25,2,1003,S-E,24,12,5,2,320,5,27,64,441,Warm,Excellent
+Male,18-25,2,1003,S-E,24,12,5,2,320,4,27,64,441,Warm,Adequate
+Male,18-25,2,1003,S-E,24,12,5,2,320,5,27,64,441,Neutral,Poor
+Male,18-25,2,1003,S-E,24,12,5,2,320,5,27,64,441,Warm,Good
+Male,18-25,2,1003,S-E,24,12,5,2,320,5,27,64,441,Neutral,Good
+Male,18-25,2,1003,S-E,24,12,5,2,320,4,27,64,441,Warm,Excellent
+Male,18-25,2,1003,S-E,24,12,5,2,320,4,27,64,441,Slightly Warm,Excellent
+Male,18-25,2,1003,S-E,24,12,5,2,320,4,27,64,441,Slightly Warm,Good
+Female,18-25,2,1003,S-E,24,12,5,2,320,2,27,64,441,Warm,Excellent
+Male,18-25,2,1003,S-E,24,12,5,2,320,2,27,64,441,Slightly Warm,Excellent
+Male,18-25,2,1003,S-E,24,12,5,2,320,2,27,64,441,Warm,Adequate
+Male,18-25,2,1003,S-E,24,12,5,2,320,2,27,64,441,Slightly Warm,Poor
+Female,18-25,2,1003,S-E,24,12,5,2,320,2,27,64,441,Warm,Good
+Male,18-25,2,1003,S-E,24,12,5,2,320,2,27,64,441,Neutral,Good
+Female,18-25,2,1003,S-E,24,12,5,2,320,2,27,64,441,Warm,Excellent
+Female,18-25,2,1003,S-E,24,12,5,2,320,2,27,64,441,Warm,Excellent
+Female,18-25,2,1003,S-E,24,12,5,2,320,5,27,64,441,Neutral,Good
+Female,18-25,2,1003,S-E,24,12,5,2,320,4,27,64,441,Slightly Warm,Fair
+Female,18-25,2,1003,S-E,24,12,5,2,320,5,27,64,441,Slightly Warm,Excellent
+Female,18-25,2,1003,S-E,24,12,5,2,320,5,27,64,441,Slightly Warm,Adequate
+Male,18-25,2,1003,S-E,24,12,5,2,320,5,27,64,441,Slightly Warm,Poor
+Male,18-25,2,1003,S-E,24,12,5,2,320,4,27,64,441,Slightly Warm,Good
+Male,18-25,3,902,S-E,26,10,3,2,320,4,30,53,449,Hot,Excellent
+Male,18-25,3,902,S-E,26,10,3,2,320,4,30,53,449,Slightly Warm,Adequate
+Male,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Warm,Poor
+Male,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Hot,Good
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Warm,Good
+Male,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Warm,Excellent
+Male,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Warm,Excellent
+Male,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Hot,Good
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Slightly Warm,Excellent
+Male,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Slightly Warm,Excellent
+Female,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Warm,Adequate
+Female,18-25,3,902,S-E,26,10,3,2,320,4,30,53,449,Slightly Warm,Poor
+Male,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Slightly Warm,Good
+Male,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Warm,Good
+Female,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Warm,Good
+Male,18-25,3,902,S-E,26,10,3,2,320,4,30,53,449,Warm,Excellent
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Slightly Warm,Good
+Male,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Slightly Warm,Excellent
+Female,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Hot,Fair
+Female,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Hot,Adequate
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Warm,Poor
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Slightly Warm,Good
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Warm,Excellent
+Female,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Hot,Adequate
+Female,18-25,3,902,S-E,26,10,3,2,320,4,30,53,449,Hot,Poor
+Male,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Slightly Cool,Good
+Female,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Slightly Warm,Good
+Female,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Warm,Excellent
+Female,18-25,3,902,S-E,26,10,3,2,320,4,30,53,449,Cool,Fair
+Male,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Warm,Good
+Male,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Warm,Excellent
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Slightly Warm,Very Good
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Warm,Adequate
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Warm,Poor
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Neutral,Good
+Male,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Warm,Good
+Male,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Slightly Warm,Excellent
+Female,18-25,3,902,S-E,26,10,3,2,320,4,30,53,449,Hot,Fair
+Female,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Warm,Good
+Female,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Slightly Warm,Fair
+Female,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Cold,Poor
+Male,18-25,3,902,S-E,26,10,3,2,320,4,30,53,449,Warm,Adequate
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Neutral,Poor
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Warm,Good
+Male,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Hot,Fair
+Female,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Hot,Adequate
+Female,18-25,3,902,S-E,26,10,3,2,320,5,30,53,449,Hot,Poor
+Female,18-25,3,902,S-E,26,10,3,2,320,2,30,53,449,Slightly Warm,Good
+Male,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Warm,Good
+Female,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Hot,Fair
+Female,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Slightly Cool,Adequate
+Male,18-25,2,903,S-E,25,9,3,2,300,4,30,53,449,Warm,Poor
+Male,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Warm,Good
+Male,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Slightly Warm,Good
+Male,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Slightly Warm,Excellent
+Female,18-25,2,903,S-E,25,9,3,2,300,4,30,53,449,Slightly Warm,Fair
+Female,18-25,2,903,S-E,25,9,3,2,300,4,30,53,449,Cold,Good
+Male,18-25,2,903,S-E,25,9,3,2,300,6,30,53,449,Hot,Fair
+Female,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Warm,Excellent
+Male,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Slightly Warm,Adequate
+Female,18-25,2,903,S-E,25,9,3,2,300,6,30,53,449,Hot,Poor
+Male,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Neutral,Good
+Male,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Neutral,Good
+Male,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Hot,Fair
+Male,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Hot,Fair
+Female,18-25,2,903,S-E,25,9,3,2,300,3,30,53,449,Neutral,Good
+Male,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Neutral,Excellent
+Female,26-30,2,903,S-E,25,9,3,2,300,5,30,53,449,Warm,Very Good
+Female,26-30,2,903,S-E,25,9,3,2,300,5,30,53,449,Hot,Adequate
+Male,18-25,2,903,S-E,25,9,3,2,300,4,30,53,449,Neutral,Poor
+Male,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Warm,Good
+Female,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Warm,Excellent
+Male,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Warm,Adequate
+Female,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Hot,Good
+Male,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Slightly Warm,Excellent
+Male,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Warm,Adequate
+Female,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Neutral,Poor
+Male,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Hot,Good
+Male,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Warm,Good
+Female,18-25,2,903,S-E,25,9,3,2,300,4,30,53,449,Warm,Excellent
+Female,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Warm,Excellent
+Female,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Warm,Good
+Female,18-25,2,903,S-E,25,9,3,2,300,5,30,53,449,Hot,Fair
+Male,18-25,2,903,S-E,25,9,3,2,300,4,30,53,449,Slightly Warm,Excellent
+Female,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Warm,Adequate
+Female,18-25,2,903,S-E,25,9,3,2,300,2,30,53,449,Slightly Warm,Poor
+Female,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Slightly Cool,Poor
+Female,18-25,3,520,S-E,23,14,2,1,300,4,27,63,445,Hot,Fair
+Male,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Slightly Warm,Excellent
+Male,18-25,3,520,S-E,23,14,2,1,300,3,27,63,445,Hot,Adequate
+Female,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Warm,Poor
+Male,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Slightly Warm,Good
+Male,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Slightly Warm,Good
+Male,18-25,3,520,S-E,23,14,2,1,300,5,27,63,445,Warm,Excellent
+Male,18-25,3,520,S-E,23,14,2,1,300,4,27,63,445,Warm,Adequate
+Male,18-25,3,520,S-E,23,14,2,1,300,5,27,63,445,Neutral,Poor
+Female,18-25,3,520,S-E,23,14,2,1,300,5,27,63,445,Neutral,Good
+Male,18-25,3,520,S-E,23,14,2,1,300,5,27,63,445,Neutral,Good
+Female,18-25,3,520,S-E,23,14,2,1,300,4,27,63,445,Neutral,Excellent
+Female,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Neutral,Excellent
+Male,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Warm,Good
+Female,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Warm,Excellent
+Female,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Slightly Warm,Excellent
+Male,18-25,3,520,S-E,23,14,2,1,300,6,27,63,445,Hot,Adequate
+Male,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Warm,Poor
+Male,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Warm,Good
+Male,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Warm,Good
+Female,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Warm,Excellent
+Female,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Slightly Cool,Excellent
+Female,18-25,3,520,S-E,23,14,2,1,300,4,27,63,445,Neutral,Good
+Male,18-25,3,520,S-E,23,14,2,1,300,5,27,63,445,Warm,Excellent
+Female,18-25,3,520,S-E,23,14,2,1,300,5,27,63,445,Hot,Good
+Male,18-25,3,520,S-E,23,14,2,1,300,5,27,63,445,Slightly Cool,Poor
+Female,18-25,3,520,S-E,23,14,2,1,300,4,27,63,445,Slightly Warm,Good
+Female,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Cool,Good
+Female,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Slightly Warm,Adequate
+Male,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Cool,Good
+Female,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Warm,Good
+Female,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Cool,Good
+Female,18-25,3,520,S-E,23,14,2,1,300,2,27,63,445,Slightly Warm,Excellent
+Female,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Hot,Good
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Warm,Good
+Male,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Warm,Good
+Female,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Hot,Fair
+Male,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Hot,Fair
+Female,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Hot,Poor
+Male,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Slightly Warm,Good
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Neutral,Excellent
+Male,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Hot,Adequate
+Male,18-25,3,501,S-E,26,11,4,2,320,4,30,63,448,Hot,Poor
+Male,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Hot,Good
+Female,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Hot,Good
+Female,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Slightly Warm,Good
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Slightly Cool,Poor
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Slightly Cool,Poor
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Warm,Poor
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Neutral,Poor
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Slightly Cool,Poor
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Slightly Cool,Good
+Female,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Hot,Adequate
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Warm,Good
+Male,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Cool,Good
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Cool,Fair
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Warm,Excellent
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Warm,Excellent
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Neutral,Adequate
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Neutral,Poor
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Warm,Good
+Female,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Warm,Fair
+Female,18-25,3,501,S-E,26,11,4,2,320,4,30,63,448,Warm,Fair
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Slightly Cool,Excellent
+Male,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Warm,Fair
+Male,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Warm,Fair
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Slightly Cool,Poor
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Warm,Poor
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Warm,Poor
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Warm,Poor
+Female,18-25,3,501,S-E,26,11,4,2,320,2,30,63,448,Neutral,Good
+Female,18-25,3,501,S-E,26,11,4,2,320,5,30,63,448,Hot,Poor
+Male,18-25,3,501,S-E,26,11,4,2,320,4,30,63,448,Warm,Adequate
+Female,18-25,3,501,S-E,26,11,4,2,320,4,30,63,448,Warm,Poor
+Female,18-25,3,501,S-E,26,12,4,2,320,5,30,63,448,Hot,Good
+Female,18-25,3,501,S-E,26,12,4,2,320,5,30,63,448,Hot,Good
+Female,18-25,3,501,S-E,26,12,4,2,320,5,30,63,448,Hot,Good
+Female,18-25,3,504,N-W,21,12,5,2,320,2,30,63,447,Neutral,Good
+Female,18-25,3,504,N-W,21,12,5,2,320,2,30,63,447,Warm,Excellent
+Male,18-25,3,504,N-W,21,12,5,2,320,2,30,63,447,Slightly Warm,Excellent
+Female,18-25,3,504,N-W,21,12,5,2,320,2,30,63,447,Slightly Warm,Good
+Male,18-25,3,504,N-W,21,12,5,2,320,4,30,63,447,Hot,Good
+Male,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Hot,Good
+Male,18-25,3,504,N-W,21,12,5,2,320,4,30,63,447,Warm,Adequate
+Male,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Hot,Poor
+Female,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Slightly Warm,Good
+Male,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Neutral,Good
+Male,18-25,3,504,N-W,21,12,5,2,320,4,30,63,447,Warm,Excellent
+Male,18-25,3,504,N-W,21,12,5,2,320,2,30,63,447,Slightly Warm,Excellent
+Male,18-25,3,504,N-W,21,12,5,2,320,2,30,63,447,Warm,Excellent
+Male,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Hot,Good
+Male,18-25,3,504,N-W,21,12,5,2,320,2,30,63,447,Warm,Excellent
+Female,18-25,3,504,N-W,21,12,5,2,320,2,30,63,447,Warm,Poor
+Male,18-25,3,504,N-W,21,12,5,2,320,2,30,63,447,Warm,Good
+Female,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Hot,Adequate
+Male,18-25,3,504,N-W,21,12,5,2,320,2,30,63,447,Warm,Excellent
+Female,18-25,3,504,N-W,21,12,5,2,320,4,30,63,447,Hot,Poor
+Female,18-25,3,504,N-W,21,12,5,2,320,2,30,63,447,Warm,Good
+Male,18-25,3,504,N-W,21,12,5,2,320,4,30,63,447,Hot,Good
+Male,18-25,3,504,N-W,21,12,5,2,320,4,30,63,447,Slightly Warm,Good
+Male,18-25,3,504,N-W,21,12,5,2,320,4,30,63,447,Warm,Good
+Female,18-25,3,504,N-W,21,12,5,2,320,4,30,63,447,Warm,Good
+Female,18-25,3,504,N-W,21,12,5,2,320,4,30,63,447,Warm,Good
+Female,18-25,3,504,N-W,21,12,5,2,320,4,30,63,447,Slightly Warm,Excellent
+Female,18-25,3,504,N-W,21,12,5,2,320,4,30,63,447,Warm,Adequate
+Female,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Hot,Poor
+Male,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Slightly Warm,Good
+Male,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Warm,Good
+Female,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Warm,Excellent
+Female,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Hot,Fair
+Female,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Hot,Good
+Female,18-25,3,504,N-W,21,12,5,2,320,5,30,63,447,Hot,Fair
+Male,18-25,3,504,N-W,21,12,5,2,320,3,30,63,447,Neutral,Excellent
+Male,18-25,3,504,N-W,21,12,5,2,320,3,30,63,447,Hot,Poor
+Male,18-25,3,504,N-W,21,12,5,2,320,3,30,63,447,Neutral,Good

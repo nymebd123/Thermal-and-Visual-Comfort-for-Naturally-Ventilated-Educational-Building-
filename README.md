@@ -12,4 +12,5 @@ To get started with the project:
 - Open the Jupyter Notebook file to explore the machine learning models and data analysis
 
 
-## Getting help
+## Getting help: nymebd@gmail.com
+Published artcile link: https://www.sciencedirect.com/science/article/abs/pii/S2352710224015833

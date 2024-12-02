@@ -13,4 +13,4 @@ To get started with the project:
 
 
 ## Getting help: nymebd@gmail.com
-Published artcile link: https://www.sciencedirect.com/science/article/abs/pii/S2352710224015833
+Published article link: https://www.sciencedirect.com/science/article/abs/pii/S2352710224015833
